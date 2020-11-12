@@ -1,1 +1,1 @@
-# depression-detection-naive-bayes
+Repo for our final project in Artificial Intelligence course.
