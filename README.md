@@ -58,7 +58,7 @@ P(B|A): The probability of the hypothesis given that the evidence is true. <br>
 ### Objectives
 Aim for this project is to build a machine learning model that can classify a text to two category: depressed or not depressed using bayes formula by calculating the sentiment of the frequency words in the training data.
 
-#### Dataset
+##### Dataset
 For this project we need a dataset which contain a lot of depression and neutral text, apprently so the model has a good accuracy we need a lot of text (eight hundred to more than a million is a good range). Because it's difficult to extract that much of tweets using Twitter API so we decided to use the [Sentiment140](https://www.kaggle.com/kazanova/sentiment140) dataset from Kaggle. The dataset for this project contains 1,600,000 tweets with label of 0 for negative sentiment and 4 for positive sentiment.
 
 ##### Author
