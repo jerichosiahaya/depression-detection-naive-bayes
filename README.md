@@ -67,4 +67,4 @@ For this project we need a dataset which contain a lot of depression and neutral
 - Darren Riota
 - Rizky Azzakky
 
-References: [psychologytoday.com](https://www.psychologytoday.com/us/basics/depression), [analyticssteps.com](https://www.analyticssteps.com/blogs/what-naive-bayes-algorithm-machine-learning)
+References: [psychologytoday.com](https://www.psychologytoday.com/us/basics/depression), [analyticssteps.com](https://www.analyticssteps.com/blogs/what-naive-bayes-algorithm-machine-learning) 
