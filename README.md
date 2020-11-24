@@ -21,7 +21,7 @@ Naive Bayes is a machine learning model that is used for large volumes of data, 
 
 It is a theorem that works on conditional probability. Conditional probability is the probability that something will happen, given that something else has already occurred. The conditional probability can give us the probability of an event using its prior knowledge. 
 
-##### Conditional Probability:
+##### Conditional Probability: 
 ![Bayes Theorem in cool led lamp](https://upload.wikimedia.org/wikipedia/commons/1/18/Bayes%27_Theorem_MMB_01.jpg)
 
 Where, <br>
